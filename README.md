@@ -3,8 +3,6 @@
 
 [![KiCad](https://img.shields.io/badge/Designed_in-KiCad-blue.svg)](https://www.kicad.org/)
 [![ESP32](https://img.shields.io/badge/MCU-ESP32--WROOM--32-red.svg)](https://www.espressif.com/en/products/modules/esp32)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 A custom, breadboard-friendly development board for the ESP32-WROOM-32 module. This board features a modern USB-C interface, reliable serial communication via the CH340C, and an automatic bootloader entry circuit for seamless flashing.
 
 </div>
